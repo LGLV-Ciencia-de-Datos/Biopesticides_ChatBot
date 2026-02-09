@@ -1,0 +1,19 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "cols_en": [
+    "name",
+    "Description",
+    "Example pests controlled",
+    "Example applications",
+    "Uses",
+    "Efficacy & activity",
+    "Canonical SMILES",
+    "Isomeric SMILES",
+    "Please cite as"
+  ],
+  "cols_es": [
+    "Descripción",
+    "Ejemplos de plagas controladas",
+    "Ejemplos de aplicaciones"
+  ]
+}

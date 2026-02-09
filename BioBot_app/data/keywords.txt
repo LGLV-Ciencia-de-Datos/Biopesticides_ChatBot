@@ -1,0 +1,3 @@
+
+para activar el venv = conda activate bio_bot_base
+para ejecutar la app = streamlit run streamlit_app.py
